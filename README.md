@@ -1,4 +1,4 @@
-<h1> Hello Companheiros < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> Olá Companheiros < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="https://i.ibb.co/GdkY6Rx/Meu-nome-Brendo-Rutherles-Sou-Desenvolvedor-full-stack-tenho-como-objetivo-crescer-profissionalmente.gif"width = 500px >
 </p>
