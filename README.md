@@ -1,12 +1,6 @@
 <h1> Olá Companheiros < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="https://i.ibb.co/GdkY6Rx/Meu-nome-Brendo-Rutherles-Sou-Desenvolvedor-full-stack-tenho-como-objetivo-crescer-profissionalmente.gif"width = 500px >
-</p>
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-
-
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
@@ -18,7 +12,7 @@
   
 - 🌱 Sou desenvolvedor full stack
   
--👨‍💻 Estou procurando colaborar em projetos
+- 👨‍💻 Estou procurando colaborar em projetos
   
 - 💬 Pergunte-me sobre  JavaScript , Node, React, React Native
   
