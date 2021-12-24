@@ -186,7 +186,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
 <p>
 
-<hr>
+<hr >
 <br>
 
 ## Just a snake eating my contributions 🐍
