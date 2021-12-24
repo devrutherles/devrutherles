@@ -1,6 +1,6 @@
 <h1> Hello Companheiros < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://i.ibb.co/GdkY6Rx/Meu-nome-Brendo-Rutherles-Sou-Desenvolvedor-full-stack-tenho-como-objetivo-crescer-profissionalmente.gif">
+<img src="https://i.ibb.co/GdkY6Rx/Meu-nome-Brendo-Rutherles-Sou-Desenvolvedor-full-stack-tenho-como-objetivo-crescer-profissionalmente.gif"width = 300px >
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
