@@ -5,9 +5,8 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
-<br>
+
 <p align='center'>
-<img src="https://i.ibb.co/GdkY6Rx/Meu-nome-Brendo-Rutherles-Sou-Desenvolvedor-full-stack-tenho-como-objetivo-crescer-profissionalmente.gif">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
 </p>
@@ -27,16 +26,14 @@
 <hr>
 <br>
 
-## Most Used Languages 📚
+## Línguas Mais Usadas 📚 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devrutherles&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+<h6>Observação: não indica meu nível de habilidade ou algo parecido, é uma métrica do GitHub de quais linguagens têm mais código no GitHub.</h6>
 </p>
-
-<hr>
 <br>
 
 ## Technology Stack 💻
